@@ -19,3 +19,7 @@ ___
 > 00001060   34 29 20 37 2E 35 2E 30 00 00 00 00 00 00 00 00  4)
 
 #### 🚩 picoCTF{d15a5m_t34s3r_98d35619}
+
+## ©️ License:
+Copyright © Kemal Demirgil. All rights reserved.
+Licensed under the [MIT](https://github.com/kemaldemirgil/picoCTF/blob/main/LICENSE) license.
